@@ -181,7 +181,7 @@ hr{
 .work-section{
    background-image: linear-gradient(#ffc107,#ffffff);
   position: relative;
-  height: 200vh;
+  height: 160vh;
   overflow: hidden;
   font-family: sans-serif;
 }
