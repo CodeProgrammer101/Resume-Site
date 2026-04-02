@@ -63,7 +63,7 @@ li a{
 li a:hover {
       color: rgb(249, 2, 2);
 }
-  .image-box {
+.image-box {
     display: block;
   margin-left: auto;
   margin-right: auto;
